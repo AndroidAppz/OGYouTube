@@ -1,4 +1,4 @@
-Summary for /storage/emulated/0/ShowJava/sources/com.google.android.ogyoutube/com.google.android.ogyoutube.jar
+Summary for /storage/emulated/0/ShowJava/sources/com.google.android.youtube/com.google.android.youtube.jar
 Decompiled with CFR 0_110
 
 
@@ -415,7 +415,7 @@ avi
 a(java.lang.String )
   Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [11[CATCHBLOCK]], but top level block is 13[CATCHBLOCK]
 a()
-  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [16[UNCONDITIONALDOLOOP], 9[CATCHBLOCK]], but top level block is 18[UNCONDITIONALDOLOOP]
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [9[CATCHBLOCK], 16[UNCONDITIONALDOLOOP]], but top level block is 18[UNCONDITIONALDOLOOP]
 a(java.lang.String aud )
   Exception : java.util.ConcurrentModificationException
 
@@ -870,7 +870,7 @@ a(android.view.LayoutInflater android.view.ViewGroup android.os.Bundle )
   Unable to fully structure code
 
 
-com.google.android.apps.ogyoutube.app.WatchWhileActivity
+com.google.android.apps.youtube.app.WatchWhileActivity
 ----------------------------
 
 a(android.content.Intent )
@@ -881,7 +881,7 @@ a(dfi )
   Unable to fully structure code
 
 
-com.google.android.apps.ogyoutube.app.YouTubeApplication
+com.google.android.apps.youtube.app.YouTubeApplication
 ----------------------------
 
 attachBaseContext(android.content.Context )
@@ -890,21 +890,21 @@ onCreate()
   Exception : java.util.ConcurrentModificationException
 
 
-com.google.android.apps.ogyoutube.app.fragments.VideoInfoFragment
+com.google.android.apps.youtube.app.fragments.VideoInfoFragment
 ----------------------------
 
 handleSequencerStageEvent(qgg )
   Unable to fully structure code
 
 
-com.google.android.apps.ogyoutube.app.honeycomb.LogCollectorActivity
+com.google.android.apps.youtube.app.honeycomb.LogCollectorActivity
 ----------------------------
 
 a(java.util.List java.io.File )
   Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [11[CATCHBLOCK]], but top level block is 16[CATCHBLOCK]
 
 
-com.google.android.apps.ogyoutube.app.honeycomb.SettingsActivity$DogfoodPrefsFragment
+com.google.android.apps.youtube.app.honeycomb.SettingsActivity$DogfoodPrefsFragment
 ----------------------------
 
 onCreate(android.os.Bundle )
@@ -913,14 +913,14 @@ onSettingsLoaded()
   Unable to fully structure code
 
 
-com.google.android.apps.ogyoutube.app.honeycomb.SettingsActivity$GeneralPrefsFragment
+com.google.android.apps.youtube.app.honeycomb.SettingsActivity$GeneralPrefsFragment
 ----------------------------
 
 onSettingsLoaded()
   Unable to fully structure code
 
 
-com.google.android.apps.ogyoutube.app.honeycomb.SettingsActivity
+com.google.android.apps.youtube.app.honeycomb.SettingsActivity
 ----------------------------
 
 onBuildHeaders(java.util.List )
@@ -934,35 +934,35 @@ onCreate(android.os.Bundle )
   Unable to fully structure code
 
 
-com.google.android.apps.ogyoutube.app.honeycomb.phone.UploadActivity
+com.google.android.apps.youtube.app.honeycomb.phone.UploadActivity
 ----------------------------
 
 onCreate(android.os.Bundle )
   Exception : java.util.ConcurrentModificationException
 
 
-com.google.android.apps.ogyoutube.app.ui.BoundedLinearLayout
+com.google.android.apps.youtube.app.ui.BoundedLinearLayout
 ----------------------------
 
 onMeasure(int int )
   Exception : org.benf.cfr.reader.util.ConfusedCFRException: Extractable last case doesn't follow previous
 
 
-com.google.android.apps.ogyoutube.app.ui.ChipCloudView
+com.google.android.apps.youtube.app.ui.ChipCloudView
 ----------------------------
 
 onMeasure(int int )
   Exception : java.util.ConcurrentModificationException
 
 
-com.google.android.apps.ogyoutube.app.ui.PrivacySpinner
+com.google.android.apps.youtube.app.ui.PrivacySpinner
 ----------------------------
 
 a(dvd )
   Unable to fully structure code
 
 
-com.google.android.apps.ogyoutube.app.ui.WatchWhileLayout
+com.google.android.apps.youtube.app.ui.WatchWhileLayout
 ----------------------------
 
 o()
@@ -975,7 +975,7 @@ onTouchEvent(android.view.MotionEvent )
   Unable to fully structure code
 
 
-com.google.android.apps.ogyoutube.embeddedplayer.service.service.jar.RemoteAdOverlayAdapter
+com.google.android.apps.youtube.embeddedplayer.service.service.jar.RemoteAdOverlayAdapter
 ----------------------------
 
 a(kdh )
@@ -1141,7 +1141,7 @@ k(boolean )
   Unable to fully structure code
 
 
-com.google.android.ogyoutube.api.jar.client.RemoteEmbeddedPlayer
+com.google.android.youtube.api.jar.client.RemoteEmbeddedPlayer
 ----------------------------
 
 j(boolean )
