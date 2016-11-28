@@ -415,7 +415,7 @@ avi
 a(java.lang.String )
   Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [11[CATCHBLOCK]], but top level block is 13[CATCHBLOCK]
 a()
-  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [9[CATCHBLOCK], 16[UNCONDITIONALDOLOOP]], but top level block is 18[UNCONDITIONALDOLOOP]
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [16[UNCONDITIONALDOLOOP], 9[CATCHBLOCK]], but top level block is 18[UNCONDITIONALDOLOOP]
 a(java.lang.String aud )
   Exception : java.util.ConcurrentModificationException
 
